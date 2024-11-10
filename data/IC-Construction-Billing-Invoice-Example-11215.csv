@@ -1,0 +1,46 @@
+,,,,,
+,CONSTRUCTION BILLING INVOICE EXAMPLE TEMPLATE,,,,
+,YOUR LOGO,,,,BILLING INVOICE
+,Company Name,,,INVOICE NO.,DATE
+IC Ltd, 123 Main Street,,,10001,11/10/2024
+,"Hamilton, OH  44416",,,CUSTOMER ID,TERMS
+,(321) 456-7890,,,A246,Net 30 Days
+,Email Address,,,,
+,,,,,
+,BILL TO,,SHIP TO,,
+,,,,,
+,ATTN: Name / Dept,,ATTN: Name / Dept,,
+,Company Name,,Company Name,,
+,123 Main Street,,123 Main Street,,
+,"Hamilton, OH  44416",,"Hamilton, OH  44416",,
+,(321) 456-7890,,(321) 456-7890,,
+,Email Address,,,,
+,,,,,
+,DESCRIPTION,,HOURS / QTY,RATE / COST,TOTAL
+,Marking of foundation layout at site,,5, 200.00 ," 1,000.00 "
+,Foundation labor,,30, 60.00 ," 1,800.00 "
+,Earth excavation up to the required depth by machine,,4, 150.00 , 600.00 
+,Excavation machine labor,,23, 60.00 ," 1,380.00 "
+,Earth excavation and levelling of soil by hand-operated tools,,2, 125.00 , 250.00 
+,Excavation and levelling hand labor,,19, 60.00 ," 1,140.00 "
+,PCC,,15, 78.00 ," 1,170.00 "
+,Placing of PCC labor,,35, 60.00 ," 2,100.00 "
+,Reinforcement steel,,30, 165.00 ," 4,950.00 "
+,Placement of reinforcement steel,,76, 60.00 ," 4,560.00 "
+,Concrete formworks for footings,,34, 230.00 ," 7,820.00 "
+,Erection of concrete formworks for footings,,53, 60.00 ," 3,180.00 "
+,Transportation of materials,,1, 430.00 , 430.00 
+,Consultations with architect,,1," 1,760.00 "," 1,760.00 "
+,Remarks / Instructions:,,,SUBTOTAL," 32,140.00 "
+,New Client Discount: $1000,,,enter total amount  DISCOUNT," 1,000.00 "
+,,,,SUBTOTAL LESS DISCOUNT," 31,140.00 "
+,,,,enter percentage  TAX RATE,3.80%
+,,,,TOTAL TAX," 1,183.32 "
+,Please make check payable to Your Company Name.,,,OTHER,0.00
+,THANK YOU,,,TOTAL," $32,323.32 "
+,,,,,
+,,,,,
+,"For questions concerning this invoice, please contact",,,,
+,"Name, (321) 456-7890, Email Address",,,,
+,www.yourwebaddress.com,,,,
+,,,,,
