@@ -1,5 +1,5 @@
 # Invollemic
-LLM for Invoice handling
+LLM for invoice handling
 
 To run:
 python  main.py
