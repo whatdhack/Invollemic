@@ -2,4 +2,4 @@
 LLM for invoice handling
 
 To run:
-python  main.py
+HF_TOKEN=<> python  main.py
