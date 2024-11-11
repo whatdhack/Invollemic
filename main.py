@@ -61,7 +61,6 @@ def ollama_llm():
     return locally_run
 
 def hf_llm():
-    os.environ["HF_TOKEN"] = "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"
     model_name = "meta-llama/Llama-3.2-1B"
     model_config = {
         # Pydantic 2 sets `model_` prefix as protected namespace and raises a
